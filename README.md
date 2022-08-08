@@ -55,3 +55,4 @@ All the code is tested with the unittest module. The test for the classes are in
 ### Authors
 [Arthur Damm](https://LinkedIn.com/arthurdamm): Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.
 Laura Roudge - laura.derohan@gmail.com
+Chinedu Agwunobi - chinedu9613@gmail.com
